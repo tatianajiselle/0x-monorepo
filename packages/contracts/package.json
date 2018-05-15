@@ -40,6 +40,8 @@
     "homepage": "https://github.com/0xProject/0x-monorepo/packages/contracts/README.md",
     "devDependencies": {
         "@0xproject/dev-utils": "^0.4.1",
+        "@0xproject/subproviders": "^0.10.1",
+        "@0xproject/sol-cov": "^0.0.10",
         "@0xproject/tslint-config": "^0.4.17",
         "@types/lodash": "4.14.104",
         "@types/node": "^8.0.53",
